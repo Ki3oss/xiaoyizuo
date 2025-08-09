@@ -14,7 +14,7 @@ const noTexts = [
     "别嘛~", 
     "我不要！！！",
     "不可以的:(",  
-    "不行，狗东西:(",
+    "不行，我一直在哭:(",
     "啦啦啦~啦啦啦~"
 ];
 
@@ -62,7 +62,7 @@ noButton.addEventListener("click", function() {
 yesButton.addEventListener("click", function() {
     document.body.innerHTML = `
         <div class="yes-screen">
-            <h1 class="yes-text">!!!我可是超级爱你的呦!! ( >᎑<)♡︎ᐝ</h1>
+            <h1 class="yes-text">!!!我可是超级小怡脑!! ( >᎑<)♡︎ᐝ</h1>
             <img src="images/hug.gif" alt="拥抱" class="yes-image">
         </div>
     `;
